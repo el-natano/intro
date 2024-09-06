@@ -1,5 +1,5 @@
-# Student name
-# 04 SEP 2024
+# Nathan Barton
+# 06 SEP 2024
 # Variables Practice
 
 # Demonstrate in this script that you know how to:
@@ -37,3 +37,49 @@
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
+
+# This script demonstrates how to work with variables and the print function in Python.
+# It includes working with string data, numeric data, and using print statements.
+
+# Part 1 / Working with Text (String Data)
+# Define a variable called school and assign it the string value 'Career Tech'
+school = 'Career Tech'
+
+# Define a variable called favorite_singer and assign it the string value "Adele"
+favorite_singer = "Koe Wetzel"
+
+# Define a variable called greeting and assign it a string value you'd use to greet someone
+greeting = "Good morning"
+
+# Use the print function to print the value of one of three variables you created in Part 1
+print(greeting) 
+
+
+# Part 2 / Working with Numbers (Numeric Data)
+# Define a variable called my_age and assign it your age as an integer
+my_age = 16
+
+# Define a variable called conversion_factor and assign it the value of 2.58 (a float/floating-point number)
+conversion_factor = 2.58
+
+# Define a variable called book_price and assign it a value of 25.99 (a float/floating-point number)
+book_price = 25.99
+
+# Use the print function to print the value of one of three variables you created in Part 2
+print(book_price)
+
+
+# Part 3 / Working with the print () Function
+# Create three different variables, one for each piece of data described below
+first_name = "Nathan"
+city = "Elk Rapids"
+age = 16
+
+# Use the print function to print your first name on your screen
+print(first_name)
+
+# Use the print function to print the name of the city you live in on your screen
+print(city)
+
+# Use the print function to print your age on your computer screen
+print(age)
